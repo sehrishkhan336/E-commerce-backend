@@ -26,9 +26,13 @@ To install the necessary dependencies, run the following command:
 
 ## Usage
 
-To start the server and synchronize the Sequelize models with the MySQL database, use the following command:
+To seed and start the server and synchronize the Sequelize models with the MySQL database, use the following command:
 
-* npm start
+1.  npm run seed
+
+ 
+
+2.  npm run start
 
 ## Database Configuration
  
@@ -45,7 +49,7 @@ To test the API routes, you can use a tool like Insomnia Core or any other API t
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
 
 ## Walkthrough-video
-https://drive.google.com/file/d/1hSy2KwukW5OLdjP9IO_WCe_4D7KLBC1r/view
+https://drive.google.com/file/d/1u5WvtpJP4Ivf9cnvg0Ad47g6xOE8NVQZ/view
 
 ## Access Deployed GitHub Repo
 https://github.com/sehrishkhan336/E-commerce-backend/tree/master
