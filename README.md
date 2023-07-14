@@ -49,7 +49,7 @@ To test the API routes, you can use a tool like Insomnia Core or any other API t
 Contributions are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
 
 ## Walkthrough-video
-https://drive.google.com/file/d/1u5WvtpJP4Ivf9cnvg0Ad47g6xOE8NVQZ/view
+https://drive.google.com/file/d/1KvGqpjW7_yLADdUu5-fz1GtecANitr9q/view
 
 ## Access Deployed GitHub Repo
 https://github.com/sehrishkhan336/E-commerce-backend/tree/master
